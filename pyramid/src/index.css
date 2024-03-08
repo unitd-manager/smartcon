@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ArabicFont';
+    src: url('../fonts/ArabicFont-Regular.ttf') format('truetype');
+}
+.redText {
+    color: red;
+  }
+  
